@@ -1,4 +1,5 @@
-Este é um projeto antigo, utiliza a versão PHP 5.2
-Por tanto haveria muita dificuldade para converter
-o MySQL em MySQLI, sem contar que infelizmente perdi
-as tabelas do MySQL.
+Este é um projeto MUITO antigo, utiliza a versão PHP 5.2.
+
+Por tanto não utilize-o para fins de: ESTUDOS, AVALIAÇÃO TÉCNICA, ORGANIZAÇÃO.
+
+Utilize-o apenas para: AVALIAÇÃO TECNOLÓGICA, CAPACIDADE DE DESENVOLVIMENTO, CAPACIDADE DE APRIMORAMENTO PESSOAL (ANTES E DEPOIS)
